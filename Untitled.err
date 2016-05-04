@@ -1,0 +1,12 @@
+Message[302] D:\SUMMER VECATIONS\PIC PROJECT\LED DOT MATRIX\UNTITLED.ASM 11 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\SUMMER VECATIONS\PIC PROJECT\LED DOT MATRIX\UNTITLED.ASM 13 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[203] D:\SUMMER VECATIONS\PIC PROJECT\LED DOT MATRIX\UNTITLED.ASM 23 : Found opcode in column 1. (clrf)
+Warning[203] D:\SUMMER VECATIONS\PIC PROJECT\LED DOT MATRIX\UNTITLED.ASM 30 : Found opcode in column 1. (clrf)
+Warning[203] D:\SUMMER VECATIONS\PIC PROJECT\LED DOT MATRIX\UNTITLED.ASM 36 : Found opcode in column 1. (clrf)
+Warning[203] D:\SUMMER VECATIONS\PIC PROJECT\LED DOT MATRIX\UNTITLED.ASM 42 : Found opcode in column 1. (clrf)
+Warning[203] D:\SUMMER VECATIONS\PIC PROJECT\LED DOT MATRIX\UNTITLED.ASM 48 : Found opcode in column 1. (clrf)
+Warning[203] D:\SUMMER VECATIONS\PIC PROJECT\LED DOT MATRIX\UNTITLED.ASM 54 : Found opcode in column 1. (clrf)
+Warning[203] D:\SUMMER VECATIONS\PIC PROJECT\LED DOT MATRIX\UNTITLED.ASM 60 : Found opcode in column 1. (clrf)
+Warning[203] D:\SUMMER VECATIONS\PIC PROJECT\LED DOT MATRIX\UNTITLED.ASM 66 : Found opcode in column 1. (clrf)
+Warning[203] D:\SUMMER VECATIONS\PIC PROJECT\LED DOT MATRIX\UNTITLED.ASM 71 : Found opcode in column 1. (GOTO)
+Warning[205] D:\SUMMER VECATIONS\PIC PROJECT\LED DOT MATRIX\UNTITLED.ASM 73 : Found directive in column 1. (END)
