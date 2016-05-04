@@ -5,8 +5,8 @@
 Build in MPLAB IDE.
 Emulated in Proteus 8 Professional.
 
-###### Please Find other PIC16F877A Projects
+###### Please Find other PIC16F877A Projects : 
 
-[Digital thermometer](https://github.com/arjunsk/pic16f877a-thermometer)
+* [Digital thermometer](https://github.com/arjunsk/pic16f877a-thermometer)
 
-[Calculator](https://github.com/arjunsk/pic16f877a-calculator)
+* [Calculator](https://github.com/arjunsk/pic16f877a-calculator)
